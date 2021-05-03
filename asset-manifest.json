@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/taskapp/static/css/main.6b7aaaad.chunk.css",
+    "main.js": "/taskapp/static/js/main.28614b5c.chunk.js",
+    "main.js.map": "/taskapp/static/js/main.28614b5c.chunk.js.map",
+    "runtime-main.js": "/taskapp/static/js/runtime-main.b507762d.js",
+    "runtime-main.js.map": "/taskapp/static/js/runtime-main.b507762d.js.map",
+    "static/js/2.9ee0f739.chunk.js": "/taskapp/static/js/2.9ee0f739.chunk.js",
+    "static/js/2.9ee0f739.chunk.js.map": "/taskapp/static/js/2.9ee0f739.chunk.js.map",
+    "index.html": "/taskapp/index.html",
+    "static/css/main.6b7aaaad.chunk.css.map": "/taskapp/static/css/main.6b7aaaad.chunk.css.map",
+    "static/js/2.9ee0f739.chunk.js.LICENSE.txt": "/taskapp/static/js/2.9ee0f739.chunk.js.LICENSE.txt",
+    "static/media/levellogo.c56e13b5.png": "/taskapp/static/media/levellogo.c56e13b5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b507762d.js",
+    "static/js/2.9ee0f739.chunk.js",
+    "static/css/main.6b7aaaad.chunk.css",
+    "static/js/main.28614b5c.chunk.js"
+  ]
+}
